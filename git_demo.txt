@@ -1,2 +1,3 @@
 This is my first git demo
 This is my first git demo
+This is my first stage in my git_demo.txt
